@@ -1,4 +1,4 @@
-# timezones-world
+# Timesonez world. JSON
 Timezones from all over the world
 
 ```json
